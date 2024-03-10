@@ -3,6 +3,9 @@
 Created on Fri Oct 12 07:30:38 2018
 
 @author: James
+
+This code take an ascii file from an intensified charge coupled device (ICCD) camera and converts it into an image.
+
 """
 import os
 import pandas
