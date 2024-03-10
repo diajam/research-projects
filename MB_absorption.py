@@ -5,7 +5,7 @@ import numpy as np
 #Code simple permettant d'identifier l'intensité du pic 663 par absorption lumineuse d'une solution méthylène bleu en fonction du temps de traitement.
 
 #Simple code to identify the intensity of the 663 peak by light absorption of a blue methylene solution as a function of treatment time.
-#The code can be used in a loop over a directory where all the files for one treatment.
+#The code can be used in a loop over a directory where all the files are for one treatment.
 
 
 file = pd.read_csv('ar_100_o2_0.csv')
