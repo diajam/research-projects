@@ -3,6 +3,9 @@
 Created on Tue Mar 13 10:31:09 2018
 
 @author: James
+
+This code consist of a toolbox of various fonctions used in other codes in this repository.
+
 """
 import csv
 import numpy as np
