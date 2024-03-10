@@ -3,6 +3,12 @@
 Created on Tue Jun  5 11:11:20 2018
 
 @author: James
+
+This code was used to do signal analysis. Using current and voltage curves from an oscilloscope, I calculate different values by importing functions from another file
+named analyse_f.
+
+At the end, I create a csv file with the relevant data for other uses.
+
 """
 import analyse_f as ana
 import pandas as pd
