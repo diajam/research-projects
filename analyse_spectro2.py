@@ -1,3 +1,9 @@
+'''
+This code search and find the intensity of the higher peaks into the input data then compare them to the highest peak.
+'''
+
+
+
 import analyse_f as ana
 import pandas as pd
 import os
