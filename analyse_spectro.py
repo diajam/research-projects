@@ -1,3 +1,6 @@
+'''
+This code take a spectrum taken from a spectrometer and try to fit experimental values to evaluate gauss, doppler and lorentz peak widths to a specific peak of a plasma discharge.
+'''
 import analyse_f as ana
 import pandas as pd
 import os
